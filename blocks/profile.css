@@ -8,7 +8,7 @@
   margin-right: 20px;
   height: 190px;
   width: 190px;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 .profile__column {
@@ -58,7 +58,7 @@
 
 .profile__edit-btn:hover {
   cursor: pointer;
-  transform: scale(1.02);
+  opacity: 1;
   transition: all 0.2s ease-in-out;
 }
 
@@ -72,7 +72,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
-  border-radius: 10px;
+  border-radius: 8px;
   width: 149px;
   height: 52px;
   display: flex;
@@ -80,11 +80,12 @@
   align-self: flex-end;
   background-color: rgba(33, 33, 33, 1);
   color: rgba(252, 245, 229, 1);
+  border: none;
 }
 
 .profile__add-btn:hover {
   cursor: pointer;
-  transform: scale(1.02);
+  opacity: 0.8;
   transition: all 0.2s ease-in-out;
 }
 
