@@ -14,7 +14,7 @@ Git & GitHub – Version control and deployment (via GitHub Pages)
 
 ### Deployment
 
-This project is deployed via GitHub Pages and can be accessed here:
+This project is deployed via GitHub Pages and can be accessed here: https://faygalunza.github.io/se_project_spots/
 
 - Intro
 - Figma
