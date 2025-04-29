@@ -15,3 +15,4 @@ Spots is a responsive web page that showcases user-submitted photo cards with ti
 ### Deployment
 
 This project is deployed via GitHub Pages and can be accessed here: [Deployment Link](https://faygalunza.github.io/se_project_spots/)
+[Video Link](https://drive.google.com/file/d/1wsiQscaSccr1rHTV0Wuw0g9YDXHCy7mR/view?usp=drive_link)
