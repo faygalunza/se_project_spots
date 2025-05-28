@@ -53,6 +53,5 @@ function handlNewPostSubmit(evt) {
   console.log("Image link::", newPOstImageLinkInput.value);
 
   newPostModal.classList.remove("modal_is-opened");
-
-  newPostForm.addEventListener("submit", handlNewPostSubmit);
 }
+newPostForm.addEventListener("submit", handlNewPostSubmit);
